@@ -1,5 +1,5 @@
 
-describe('Test', () => {
+describe('Kasir API', () => {
 
   const baseURL = "https://kasir-api.belajarqa.com/";
   let token;
