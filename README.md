@@ -51,4 +51,7 @@
 - Execute Test Case
 
   After we create a test case, we can run it using Cypress. To run the test case, we can click the run button on Cypress. We will get the test results in the form of a report.
-##
+## Test Documentation
+
+[Lihat Laporan Pengujian](cypress/reports/html/index.html)
+
